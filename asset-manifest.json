@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trew-brew/static/css/main.8322c587.chunk.css",
+    "main.js": "/trew-brew/static/js/main.a817dece.chunk.js",
+    "main.js.map": "/trew-brew/static/js/main.a817dece.chunk.js.map",
+    "runtime-main.js": "/trew-brew/static/js/runtime-main.f8fafe65.js",
+    "runtime-main.js.map": "/trew-brew/static/js/runtime-main.f8fafe65.js.map",
+    "static/js/2.617652a7.chunk.js": "/trew-brew/static/js/2.617652a7.chunk.js",
+    "static/js/2.617652a7.chunk.js.map": "/trew-brew/static/js/2.617652a7.chunk.js.map",
+    "index.html": "/trew-brew/index.html",
+    "precache-manifest.1b91345c594470e9edcf1a4927409a2c.js": "/trew-brew/precache-manifest.1b91345c594470e9edcf1a4927409a2c.js",
+    "service-worker.js": "/trew-brew/service-worker.js",
+    "static/css/main.8322c587.chunk.css.map": "/trew-brew/static/css/main.8322c587.chunk.css.map",
+    "static/js/2.617652a7.chunk.js.LICENSE": "/trew-brew/static/js/2.617652a7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8fafe65.js",
+    "static/js/2.617652a7.chunk.js",
+    "static/css/main.8322c587.chunk.css",
+    "static/js/main.a817dece.chunk.js"
+  ]
+}
